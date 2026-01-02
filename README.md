@@ -52,6 +52,3 @@ El notebook incluye queries avanzadas utilizando:
 
 3.  **Ejecutar el Notebook:**
     Abrir `notebooks/log_analysis.ipynb` en VS Code o Jupyter Lab y ejecutar todas las celdas.
-
----
-*Proyecto realizado como parte de un desafío de Ingeniería de Datos.*
