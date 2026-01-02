@@ -10,9 +10,9 @@ Este proyecto implementa un pipeline de análisis de datos para procesar logs de
 
 El análisis reveló problemas críticos de infraestructura que afectan la experiencia del usuario:
 
-* ** Latencia Crítica:** Se detectó un tiempo de respuesta **p95 superior a 24 segundos** en endpoints vitales como `/api/auth/login` y `/api/checkout`, sugiriendo bloqueos en base de datos.
-* ** Inestabilidad en Auth:** El servicio de Login presenta una alta tasa de errores de infraestructura (**502/503**) durante picos de carga, bloqueando el ingreso de usuarios.
-* ** Tráfico Constante:** No se identificaron "ventanas de mantenimiento" claras (horas de tráfico cero), lo que complica las actualizaciones sin *downtime*.
+* ** Latencia Crítica: ** Se detectó un tiempo de respuesta **p95 superior a 24 segundos** en endpoints vitales como `/api/auth/login` y `/api/checkout`, sugiriendo bloqueos en base de datos.
+* ** Inestabilidad en Auth: ** El servicio de Login presenta una alta tasa de errores de infraestructura (**502/503**) durante picos de carga, bloqueando el ingreso de usuarios.
+* ** Tráfico Constante: ** No se identificaron "ventanas de mantenimiento" claras (horas de tráfico cero), lo que complica las actualizaciones sin *downtime*.
 
 ## Stack Tecnológico
 
