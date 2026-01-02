@@ -31,18 +31,18 @@ El análisis reveló problemas críticos de infraestructura que afectan la exper
 └── README.md               # Documentación del proyecto
 ```
 
-## 🧠 Análisis SQL Realizados
+## Análisis SQL Realizados
 
 El notebook incluye queries avanzadas utilizando:
 1.  **Agregaciones complejas:** Cálculo de percentiles (`quantile`) para medir latencia real (p95).
 2.  **Window Functions:** Uso de `RANK()` particionado para identificar los endpoints más lentos por método HTTP.
 3.  **Time-Series Analysis:** Uso de `LAG()` para comparar tendencias de tráfico hora a hora.
 
-## 💻 Cómo correr este proyecto
+## Cómo correr este proyecto
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/TU_USUARIO/TU_REPO.git](https://github.com/TU_USUARIO/TU_REPO.git)
+    git clone [https://github.com/juancruzgodoy/web-server-log-analysis)
     ```
 
 2.  **Instalar dependencias:**
