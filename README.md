@@ -24,7 +24,7 @@ El análisis reveló problemas críticos de infraestructura que afectan la exper
 ## Estructura del Proyecto
 
 ```bash
-├── data/                   # (Ignorado en git) Logs crudos en formato JSON/Parquet
+├── data/                   # (Ignorado en git) Logs crudos en formato JSON
 ├── notebooks/
 │   └── log_analysis.ipynb  # Análisis completo (Queries + Visualización)
 ├── .gitignore              # Configuración para ignorar archivos temporales
