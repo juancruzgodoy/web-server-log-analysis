@@ -1,0 +1,802 @@
+[
+  {
+    "alert_id": 1,
+    "rule_id": 15,
+    "triggered_at": "2025-10-26 18:38:16",
+    "resolved_at": "2025-10-26 19:29:19",
+    "status": "resolved",
+    "acknowledged_by": "engineer-9"
+  },
+  {
+    "alert_id": 2,
+    "rule_id": 8,
+    "triggered_at": "2024-02-14 06:08:22",
+    "resolved_at": "2024-02-14 07:16:39",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 3,
+    "rule_id": 17,
+    "triggered_at": "2025-05-10 04:25:06",
+    "resolved_at": "2025-05-10 04:43:57",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 4,
+    "rule_id": 1,
+    "triggered_at": "2025-10-12 05:27:00",
+    "resolved_at": null,
+    "status": "acknowledged",
+    "acknowledged_by": "engineer-5"
+  },
+  {
+    "alert_id": 5,
+    "rule_id": 4,
+    "triggered_at": "2024-02-28 20:45:08",
+    "resolved_at": "2024-02-28 22:24:16",
+    "status": "resolved",
+    "acknowledged_by": "engineer-7"
+  },
+  {
+    "alert_id": 6,
+    "rule_id": 5,
+    "triggered_at": "2024-03-19 01:15:55",
+    "resolved_at": "2024-03-19 01:44:08",
+    "status": "resolved",
+    "acknowledged_by": "engineer-7"
+  },
+  {
+    "alert_id": 7,
+    "rule_id": 5,
+    "triggered_at": "2025-09-14 16:30:52",
+    "resolved_at": "2025-09-14 16:43:12",
+    "status": "resolved",
+    "acknowledged_by": "engineer-9"
+  },
+  {
+    "alert_id": 8,
+    "rule_id": 4,
+    "triggered_at": "2025-07-07 17:31:06",
+    "resolved_at": "2025-07-07 19:16:44",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 9,
+    "rule_id": 6,
+    "triggered_at": "2024-02-05 14:39:51",
+    "resolved_at": null,
+    "status": "acknowledged",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 10,
+    "rule_id": 15,
+    "triggered_at": "2025-12-08 06:30:09",
+    "resolved_at": "2025-12-08 07:06:27",
+    "status": "resolved",
+    "acknowledged_by": "engineer-10"
+  },
+  {
+    "alert_id": 11,
+    "rule_id": 15,
+    "triggered_at": "2024-09-02 01:21:36",
+    "resolved_at": "2024-09-02 01:48:44",
+    "status": "resolved",
+    "acknowledged_by": "engineer-4"
+  },
+  {
+    "alert_id": 12,
+    "rule_id": 8,
+    "triggered_at": "2025-02-22 02:01:39",
+    "resolved_at": "2025-02-22 03:14:31",
+    "status": "resolved",
+    "acknowledged_by": "engineer-9"
+  },
+  {
+    "alert_id": 13,
+    "rule_id": 15,
+    "triggered_at": "2024-12-19 15:23:27",
+    "resolved_at": "2024-12-19 16:09:00",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 14,
+    "rule_id": 18,
+    "triggered_at": "2025-07-05 10:57:37",
+    "resolved_at": "2025-07-05 12:55:42",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 15,
+    "rule_id": 6,
+    "triggered_at": "2025-01-17 05:49:24",
+    "resolved_at": "2025-01-17 07:09:47",
+    "status": "resolved",
+    "acknowledged_by": "engineer-2"
+  },
+  {
+    "alert_id": 16,
+    "rule_id": 10,
+    "triggered_at": "2024-05-04 22:24:57",
+    "resolved_at": "2024-05-05 00:00:27",
+    "status": "resolved",
+    "acknowledged_by": "engineer-3"
+  },
+  {
+    "alert_id": 17,
+    "rule_id": 10,
+    "triggered_at": "2024-12-19 17:18:06",
+    "resolved_at": "2024-12-19 18:45:47",
+    "status": "resolved",
+    "acknowledged_by": "engineer-10"
+  },
+  {
+    "alert_id": 18,
+    "rule_id": 14,
+    "triggered_at": "2024-08-29 15:31:57",
+    "resolved_at": "2024-08-29 16:09:38",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 19,
+    "rule_id": 18,
+    "triggered_at": "2024-05-29 14:13:03",
+    "resolved_at": "2024-05-29 15:57:34",
+    "status": "resolved",
+    "acknowledged_by": "engineer-8"
+  },
+  {
+    "alert_id": 20,
+    "rule_id": 12,
+    "triggered_at": "2024-02-11 12:26:34",
+    "resolved_at": "2024-02-11 13:58:33",
+    "status": "resolved",
+    "acknowledged_by": "engineer-2"
+  },
+  {
+    "alert_id": 21,
+    "rule_id": 2,
+    "triggered_at": "2024-12-02 12:32:11",
+    "resolved_at": "2024-12-02 13:46:52",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 22,
+    "rule_id": 8,
+    "triggered_at": "2025-02-04 22:29:26",
+    "resolved_at": "2025-02-04 23:57:03",
+    "status": "resolved",
+    "acknowledged_by": "engineer-7"
+  },
+  {
+    "alert_id": 23,
+    "rule_id": 19,
+    "triggered_at": "2025-10-11 13:49:39",
+    "resolved_at": "2025-10-11 15:02:21",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 24,
+    "rule_id": 14,
+    "triggered_at": "2024-08-28 11:08:41",
+    "resolved_at": "2024-08-28 12:12:43",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 25,
+    "rule_id": 3,
+    "triggered_at": "2025-09-26 14:51:14",
+    "resolved_at": "2025-09-26 16:27:20",
+    "status": "resolved",
+    "acknowledged_by": "engineer-4"
+  },
+  {
+    "alert_id": 26,
+    "rule_id": 14,
+    "triggered_at": "2025-08-18 11:21:13",
+    "resolved_at": null,
+    "status": "acknowledged",
+    "acknowledged_by": "engineer-10"
+  },
+  {
+    "alert_id": 27,
+    "rule_id": 2,
+    "triggered_at": "2025-10-20 23:42:04",
+    "resolved_at": "2025-10-21 01:37:41",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 28,
+    "rule_id": 19,
+    "triggered_at": "2024-08-12 02:12:15",
+    "resolved_at": "2024-08-12 02:37:07",
+    "status": "resolved",
+    "acknowledged_by": "engineer-7"
+  },
+  {
+    "alert_id": 29,
+    "rule_id": 9,
+    "triggered_at": "2024-10-25 17:13:48",
+    "resolved_at": "2024-10-25 18:40:43",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 30,
+    "rule_id": 12,
+    "triggered_at": "2025-10-10 12:55:07",
+    "resolved_at": "2025-10-10 14:02:25",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 31,
+    "rule_id": 19,
+    "triggered_at": "2024-05-08 11:00:50",
+    "resolved_at": null,
+    "status": "acknowledged",
+    "acknowledged_by": "engineer-1"
+  },
+  {
+    "alert_id": 32,
+    "rule_id": 13,
+    "triggered_at": "2024-08-14 08:37:04",
+    "resolved_at": "2024-08-14 10:27:53",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 33,
+    "rule_id": 7,
+    "triggered_at": "2024-10-24 08:57:06",
+    "resolved_at": "2024-10-24 10:19:51",
+    "status": "resolved",
+    "acknowledged_by": "engineer-3"
+  },
+  {
+    "alert_id": 34,
+    "rule_id": 6,
+    "triggered_at": "2025-03-14 04:16:25",
+    "resolved_at": "2025-03-14 06:02:45",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 35,
+    "rule_id": 20,
+    "triggered_at": "2024-05-29 06:55:57",
+    "resolved_at": "2024-05-29 07:42:37",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 36,
+    "rule_id": 11,
+    "triggered_at": "2025-10-08 22:11:03",
+    "resolved_at": "2025-10-08 23:55:43",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 37,
+    "rule_id": 5,
+    "triggered_at": "2025-02-06 06:56:31",
+    "resolved_at": "2025-02-06 08:03:27",
+    "status": "resolved",
+    "acknowledged_by": "engineer-9"
+  },
+  {
+    "alert_id": 38,
+    "rule_id": 2,
+    "triggered_at": "2024-02-27 09:44:42",
+    "resolved_at": "2024-02-27 10:33:32",
+    "status": "resolved",
+    "acknowledged_by": "engineer-3"
+  },
+  {
+    "alert_id": 39,
+    "rule_id": 18,
+    "triggered_at": "2024-08-27 16:53:36",
+    "resolved_at": "2024-08-27 17:33:00",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 40,
+    "rule_id": 13,
+    "triggered_at": "2024-04-09 11:22:23",
+    "resolved_at": "2024-04-09 11:52:19",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 41,
+    "rule_id": 2,
+    "triggered_at": "2025-09-01 02:09:42",
+    "resolved_at": "2025-09-01 02:50:57",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 42,
+    "rule_id": 12,
+    "triggered_at": "2025-01-27 15:24:22",
+    "resolved_at": "2025-01-27 16:08:00",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 43,
+    "rule_id": 2,
+    "triggered_at": "2024-03-13 08:16:25",
+    "resolved_at": null,
+    "status": "firing",
+    "acknowledged_by": "engineer-4"
+  },
+  {
+    "alert_id": 44,
+    "rule_id": 18,
+    "triggered_at": "2025-06-26 03:15:32",
+    "resolved_at": "2025-06-26 03:45:57",
+    "status": "resolved",
+    "acknowledged_by": "engineer-8"
+  },
+  {
+    "alert_id": 45,
+    "rule_id": 3,
+    "triggered_at": "2025-03-09 23:21:19",
+    "resolved_at": "2025-03-10 00:56:25",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 46,
+    "rule_id": 11,
+    "triggered_at": "2025-07-19 04:32:05",
+    "resolved_at": "2025-07-19 06:27:28",
+    "status": "resolved",
+    "acknowledged_by": "engineer-7"
+  },
+  {
+    "alert_id": 47,
+    "rule_id": 12,
+    "triggered_at": "2024-03-11 21:37:15",
+    "resolved_at": "2024-03-11 21:52:53",
+    "status": "resolved",
+    "acknowledged_by": "engineer-8"
+  },
+  {
+    "alert_id": 48,
+    "rule_id": 9,
+    "triggered_at": "2025-12-02 18:47:47",
+    "resolved_at": "2025-12-02 20:37:46",
+    "status": "resolved",
+    "acknowledged_by": "engineer-5"
+  },
+  {
+    "alert_id": 49,
+    "rule_id": 14,
+    "triggered_at": "2024-10-22 08:42:28",
+    "resolved_at": null,
+    "status": "acknowledged",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 50,
+    "rule_id": 20,
+    "triggered_at": "2025-02-15 12:20:28",
+    "resolved_at": "2025-02-15 14:16:34",
+    "status": "resolved",
+    "acknowledged_by": "engineer-10"
+  },
+  {
+    "alert_id": 51,
+    "rule_id": 14,
+    "triggered_at": "2025-06-04 09:17:24",
+    "resolved_at": "2025-06-04 10:31:47",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 52,
+    "rule_id": 20,
+    "triggered_at": "2024-07-28 01:01:28",
+    "resolved_at": "2024-07-28 01:06:56",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 53,
+    "rule_id": 11,
+    "triggered_at": "2025-07-18 04:12:20",
+    "resolved_at": "2025-07-18 04:35:57",
+    "status": "resolved",
+    "acknowledged_by": "engineer-5"
+  },
+  {
+    "alert_id": 54,
+    "rule_id": 14,
+    "triggered_at": "2024-12-11 13:06:58",
+    "resolved_at": null,
+    "status": "acknowledged",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 55,
+    "rule_id": 3,
+    "triggered_at": "2024-01-27 15:18:40",
+    "resolved_at": "2024-01-27 15:32:45",
+    "status": "resolved",
+    "acknowledged_by": "engineer-9"
+  },
+  {
+    "alert_id": 56,
+    "rule_id": 11,
+    "triggered_at": "2025-11-11 01:36:53",
+    "resolved_at": "2025-11-11 03:03:19",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 57,
+    "rule_id": 18,
+    "triggered_at": "2025-04-13 09:19:41",
+    "resolved_at": "2025-04-13 11:11:02",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 58,
+    "rule_id": 20,
+    "triggered_at": "2025-06-27 07:30:12",
+    "resolved_at": null,
+    "status": "firing",
+    "acknowledged_by": "engineer-1"
+  },
+  {
+    "alert_id": 59,
+    "rule_id": 18,
+    "triggered_at": "2025-09-12 01:05:12",
+    "resolved_at": null,
+    "status": "acknowledged",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 60,
+    "rule_id": 4,
+    "triggered_at": "2025-10-08 01:08:30",
+    "resolved_at": "2025-10-08 03:04:30",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 61,
+    "rule_id": 15,
+    "triggered_at": "2024-06-29 14:23:02",
+    "resolved_at": "2024-06-29 15:36:24",
+    "status": "resolved",
+    "acknowledged_by": "engineer-2"
+  },
+  {
+    "alert_id": 62,
+    "rule_id": 8,
+    "triggered_at": "2025-10-22 01:22:32",
+    "resolved_at": "2025-10-22 02:23:38",
+    "status": "resolved",
+    "acknowledged_by": "engineer-3"
+  },
+  {
+    "alert_id": 63,
+    "rule_id": 8,
+    "triggered_at": "2024-02-12 03:56:40",
+    "resolved_at": "2024-02-12 04:04:54",
+    "status": "resolved",
+    "acknowledged_by": "engineer-2"
+  },
+  {
+    "alert_id": 64,
+    "rule_id": 7,
+    "triggered_at": "2024-12-14 08:50:10",
+    "resolved_at": null,
+    "status": "firing",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 65,
+    "rule_id": 12,
+    "triggered_at": "2025-11-08 05:12:52",
+    "resolved_at": "2025-11-08 07:11:41",
+    "status": "resolved",
+    "acknowledged_by": "engineer-3"
+  },
+  {
+    "alert_id": 66,
+    "rule_id": 4,
+    "triggered_at": "2025-12-20 19:53:30",
+    "resolved_at": "2025-12-20 20:23:43",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 67,
+    "rule_id": 2,
+    "triggered_at": "2025-04-05 06:11:10",
+    "resolved_at": "2025-04-05 06:48:14",
+    "status": "resolved",
+    "acknowledged_by": "engineer-7"
+  },
+  {
+    "alert_id": 68,
+    "rule_id": 18,
+    "triggered_at": "2025-12-06 15:04:37",
+    "resolved_at": "2025-12-06 15:47:53",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 69,
+    "rule_id": 5,
+    "triggered_at": "2025-07-07 06:05:55",
+    "resolved_at": "2025-07-07 06:11:24",
+    "status": "resolved",
+    "acknowledged_by": "engineer-8"
+  },
+  {
+    "alert_id": 70,
+    "rule_id": 5,
+    "triggered_at": "2024-10-11 06:02:35",
+    "resolved_at": "2024-10-11 07:21:18",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 71,
+    "rule_id": 12,
+    "triggered_at": "2025-12-22 02:20:17",
+    "resolved_at": "2025-12-22 03:01:46",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 72,
+    "rule_id": 4,
+    "triggered_at": "2025-11-27 09:47:03",
+    "resolved_at": "2025-11-27 11:13:34",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 73,
+    "rule_id": 10,
+    "triggered_at": "2024-11-24 03:01:07",
+    "resolved_at": "2024-11-24 03:31:07",
+    "status": "resolved",
+    "acknowledged_by": "engineer-5"
+  },
+  {
+    "alert_id": 74,
+    "rule_id": 2,
+    "triggered_at": "2025-08-24 12:21:32",
+    "resolved_at": "2025-08-24 13:51:43",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 75,
+    "rule_id": 11,
+    "triggered_at": "2025-06-13 04:12:59",
+    "resolved_at": "2025-06-13 04:28:06",
+    "status": "resolved",
+    "acknowledged_by": "engineer-6"
+  },
+  {
+    "alert_id": 76,
+    "rule_id": 18,
+    "triggered_at": "2025-11-26 20:00:18",
+    "resolved_at": "2025-11-26 21:14:33",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 77,
+    "rule_id": 6,
+    "triggered_at": "2025-07-13 08:27:22",
+    "resolved_at": "2025-07-13 09:47:45",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 78,
+    "rule_id": 10,
+    "triggered_at": "2024-02-25 04:03:49",
+    "resolved_at": "2024-02-25 04:33:31",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 79,
+    "rule_id": 6,
+    "triggered_at": "2025-01-23 01:57:03",
+    "resolved_at": "2025-01-23 02:14:41",
+    "status": "resolved",
+    "acknowledged_by": "engineer-5"
+  },
+  {
+    "alert_id": 80,
+    "rule_id": 17,
+    "triggered_at": "2024-10-14 23:50:47",
+    "resolved_at": "2024-10-15 00:01:28",
+    "status": "resolved",
+    "acknowledged_by": "engineer-8"
+  },
+  {
+    "alert_id": 81,
+    "rule_id": 7,
+    "triggered_at": "2025-06-08 05:00:43",
+    "resolved_at": "2025-06-08 05:38:46",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 82,
+    "rule_id": 13,
+    "triggered_at": "2025-08-28 11:22:39",
+    "resolved_at": null,
+    "status": "firing",
+    "acknowledged_by": "engineer-7"
+  },
+  {
+    "alert_id": 83,
+    "rule_id": 3,
+    "triggered_at": "2025-07-11 17:40:04",
+    "resolved_at": "2025-07-11 19:37:56",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 84,
+    "rule_id": 4,
+    "triggered_at": "2025-09-13 11:24:37",
+    "resolved_at": "2025-09-13 12:38:01",
+    "status": "resolved",
+    "acknowledged_by": "engineer-5"
+  },
+  {
+    "alert_id": 85,
+    "rule_id": 20,
+    "triggered_at": "2024-06-05 11:28:04",
+    "resolved_at": "2024-06-05 12:17:35",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 86,
+    "rule_id": 13,
+    "triggered_at": "2025-01-20 22:52:10",
+    "resolved_at": "2025-01-21 00:09:13",
+    "status": "resolved",
+    "acknowledged_by": "engineer-7"
+  },
+  {
+    "alert_id": 87,
+    "rule_id": 16,
+    "triggered_at": "2024-08-09 16:56:38",
+    "resolved_at": "2024-08-09 18:09:53",
+    "status": "resolved",
+    "acknowledged_by": "engineer-3"
+  },
+  {
+    "alert_id": 88,
+    "rule_id": 12,
+    "triggered_at": "2024-08-11 08:21:12",
+    "resolved_at": "2024-08-11 08:32:10",
+    "status": "resolved",
+    "acknowledged_by": "engineer-8"
+  },
+  {
+    "alert_id": 89,
+    "rule_id": 15,
+    "triggered_at": "2024-11-16 09:49:03",
+    "resolved_at": "2024-11-16 10:29:58",
+    "status": "resolved",
+    "acknowledged_by": "engineer-8"
+  },
+  {
+    "alert_id": 90,
+    "rule_id": 17,
+    "triggered_at": "2024-03-11 20:36:11",
+    "resolved_at": "2024-03-11 21:36:59",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 91,
+    "rule_id": 6,
+    "triggered_at": "2024-06-24 08:53:48",
+    "resolved_at": "2024-06-24 10:45:21",
+    "status": "resolved",
+    "acknowledged_by": "engineer-4"
+  },
+  {
+    "alert_id": 92,
+    "rule_id": 9,
+    "triggered_at": "2025-06-25 08:10:16",
+    "resolved_at": "2025-06-25 10:04:09",
+    "status": "resolved",
+    "acknowledged_by": "engineer-4"
+  },
+  {
+    "alert_id": 93,
+    "rule_id": 13,
+    "triggered_at": "2025-04-15 12:38:38",
+    "resolved_at": "2025-04-15 14:36:27",
+    "status": "resolved",
+    "acknowledged_by": "engineer-3"
+  },
+  {
+    "alert_id": 94,
+    "rule_id": 2,
+    "triggered_at": "2025-08-21 23:50:54",
+    "resolved_at": "2025-08-22 01:14:44",
+    "status": "resolved",
+    "acknowledged_by": "engineer-1"
+  },
+  {
+    "alert_id": 95,
+    "rule_id": 11,
+    "triggered_at": "2025-07-15 20:14:32",
+    "resolved_at": "2025-07-15 22:05:12",
+    "status": "resolved",
+    "acknowledged_by": "engineer-6"
+  },
+  {
+    "alert_id": 96,
+    "rule_id": 3,
+    "triggered_at": "2025-07-13 12:50:55",
+    "resolved_at": "2025-07-13 14:43:00",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 97,
+    "rule_id": 8,
+    "triggered_at": "2024-04-13 19:13:39",
+    "resolved_at": "2024-04-13 19:48:42",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 98,
+    "rule_id": 16,
+    "triggered_at": "2024-02-21 01:09:59",
+    "resolved_at": null,
+    "status": "firing",
+    "acknowledged_by": "engineer-7"
+  },
+  {
+    "alert_id": 99,
+    "rule_id": 16,
+    "triggered_at": "2024-07-24 11:49:05",
+    "resolved_at": null,
+    "status": "firing",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 100,
+    "rule_id": 14,
+    "triggered_at": "2025-12-21 11:24:24",
+    "resolved_at": "2025-12-21 12:47:09",
+    "status": "resolved",
+    "acknowledged_by": null
+  }
+]
