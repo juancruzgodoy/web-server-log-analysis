@@ -1,0 +1,21 @@
+# Jupyter Notebooks checkpoints (La basura que más molesta)
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Base de datos DuckDB (No se suben binarios grandes)
+*.db
+*.duckdb
+
+# Datos crudos (Si tenés los CSV/Parquet en la misma carpeta)
+data/
+*.csv
+*.parquet
+
+# Archivos de sistema y entorno
+.DS_Store
+.env
+.venv/
+env/
