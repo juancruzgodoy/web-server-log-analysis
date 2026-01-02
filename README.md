@@ -29,3 +29,29 @@ El análisis reveló problemas críticos de infraestructura que afectan la exper
 │   └── log_analysis.ipynb  # Análisis completo (Queries + Visualización)
 ├── .gitignore              # Configuración para ignorar archivos temporales
 └── README.md               # Documentación del proyecto
+```
+
+## 🧠 Análisis SQL Realizados
+
+El notebook incluye queries avanzadas utilizando:
+1.  **Agregaciones complejas:** Cálculo de percentiles (`quantile`) para medir latencia real (p95).
+2.  **Window Functions:** Uso de `RANK()` particionado para identificar los endpoints más lentos por método HTTP.
+3.  **Time-Series Analysis:** Uso de `LAG()` para comparar tendencias de tráfico hora a hora.
+
+## 💻 Cómo correr este proyecto
+
+1.  **Clonar el repositorio:**
+    ```bash
+    git clone [https://github.com/TU_USUARIO/TU_REPO.git](https://github.com/TU_USUARIO/TU_REPO.git)
+    ```
+
+2.  **Instalar dependencias:**
+    ```bash
+    pip install duckdb pandas notebook
+    ```
+
+3.  **Ejecutar el Notebook:**
+    Abrir `notebooks/log_analysis.ipynb` en VS Code o Jupyter Lab y ejecutar todas las celdas.
+
+---
+*Proyecto realizado como parte de un desafío de Ingeniería de Datos.*
