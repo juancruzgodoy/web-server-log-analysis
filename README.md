@@ -6,7 +6,7 @@
 
 Este proyecto implementa un pipeline de análisis de datos para procesar logs de servidores web. Utilizando **DuckDB** como motor OLAP en-memoria, se procesaron +5000 registros para identificar cuellos de botella de latencia, tasas de error críticas y patrones de tráfico.
 
-## Key Findings (Hallazgos Principales)
+## Hallazgos Principales
 
 El análisis reveló problemas críticos de infraestructura que afectan la experiencia del usuario:
 
@@ -14,7 +14,7 @@ El análisis reveló problemas críticos de infraestructura que afectan la exper
 * **Inestabilidad en Auth:** El servicio de Login presenta una alta tasa de errores de infraestructura (**502/503**) durante picos de carga, bloqueando el ingreso de usuarios.
 * **Tráfico Constante:** No se identificaron "ventanas de mantenimiento" claras (horas de tráfico cero), lo que complica las actualizaciones sin *downtime*.
 
-## Stack Tecnológico
+## Tecnologias utilizadas
 
 * **Python:** Orquestación y manejo de entorno.
 * **DuckDB:** Motor SQL embebido para procesamiento analítico de alto rendimiento.
